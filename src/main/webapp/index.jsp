@@ -1,7 +1,7 @@
 <html>
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1>HEY THIS IS MY SECOND VERSION OF APPLICATION USING cicd with pipeline ansible kubernertes terraform aws services renuka redddy patel</h1>
+	<h1>HEY THIS IS MY SECOND VERSION OF APPLICATION USING cicd with pipeline ansible kubernertes terraform aws services renuka redddy patel ravinder</h1>
 	
 	
 </body>
